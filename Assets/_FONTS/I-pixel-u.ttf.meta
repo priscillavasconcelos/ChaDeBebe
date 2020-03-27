@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d05f4ed03f99e604b8a77f0ac11081f7
+timeCreated: 1524416038
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: I pixel u
+  fontNames:
+  - I pixel u
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
